@@ -81,3 +81,7 @@ h2 {
 #Full-Stack-Web-Developer {
     border-left: 8px solid darkmagenta;
 }
+
+footer p {
+    text-align: center;
+}

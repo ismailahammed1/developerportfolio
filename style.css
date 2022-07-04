@@ -14,6 +14,7 @@ h1 {
 
 section {
     display: inline-flex;
+    margin-bottom: 150px;
 }
 
 .half-with {
@@ -38,5 +39,16 @@ section {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+
+}
+
+.link-button {
+    margin-bottom: 100px;
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 
 }

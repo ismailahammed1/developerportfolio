@@ -8,11 +8,15 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .oreng-color {
     color: orange;
 }
 
-section {
+.flexible-containar {
     display: inline-flex;
     margin-bottom: 150px;
 }
@@ -51,4 +55,29 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 
+}
+
+.shadow {
+    width: 40%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    font-size-adjust: initial;
+    border-radius: 10px;
+}
+
+.exprience {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+#Baby-Web-Developer {
+    border-left: 8px solid orange;
+
+}
+
+#Full-Stack-Web-Developer {
+    border-left: 8px solid darkmagenta;
 }
